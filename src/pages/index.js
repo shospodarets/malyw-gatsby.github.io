@@ -22,9 +22,6 @@ const IndexPage = () => (
                 <Link to="/about/">About</Link>
             </li>
             <li>
-                <Link to="/styled-components/">styled-components</Link>
-            </li>
-            <li>
                 <Link to="/css-module/">css-module</Link>
             </li>
             <li>
