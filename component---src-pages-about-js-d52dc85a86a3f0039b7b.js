@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{"3XHS":function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),o=n("Wbzz");t.default=function(){return l.a.createElement("main",null,l.a.createElement("h1",null,"About the Author"),l.a.createElement("p",null,"Welcome to my Gatsby site."),l.a.createElement(o.Link,{to:"/"},"Back to main"))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-d52dc85a86a3f0039b7b.js.map

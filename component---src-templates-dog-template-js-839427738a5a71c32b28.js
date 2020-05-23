@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{PQev:function(n,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return a}));t("f3/d");var o=t("q1tI"),r=t.n(o);function a(n){var e=n.pageContext.dog;return r.a.createElement("section",null,e.name," - ",e.breed)}}}]);
+//# sourceMappingURL=component---src-templates-dog-template-js-839427738a5a71c32b28.js.map
