@@ -1,0 +1,14 @@
+/* Fonts */
+
+@font-face {
+    font-family: 'roboto';
+    src: url('roboto-regular.woff2?#iefix') format('woff2'),
+         url('roboto-regular.woff') format('woff'),
+         url('roboto-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+    font-family: roboto, sans-serif !important;
+}
